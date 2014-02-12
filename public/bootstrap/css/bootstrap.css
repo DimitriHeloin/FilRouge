@@ -5880,6 +5880,9 @@ a.list-group-item.active:focus .list-group-item-text {
 }
 
 .well {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
   min-height: 20px;
   padding: 19px;
   margin-bottom: 20px;
